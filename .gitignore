@@ -1,0 +1,18 @@
+
+# Secrets and credentials
+.env
+credentials.json
+token.json
+client_secret*.json
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE files
+.vscode/
+.idea/
