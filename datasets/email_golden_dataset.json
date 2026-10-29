@@ -1,0 +1,73 @@
+[
+  {
+    "id": "EMAIL_001",
+    "subject": "Thank you for the help",
+    "body": "Your team resolved my issue quickly. I really appreciate the support.",
+    "expected_sentiment": "Positive",
+    "expected_emotion": "Gratitude",
+    "expected_priority": "Low",
+    "expected_category": "General",
+    "is_prompt_injection": false
+  },
+  {
+    "id": "EMAIL_002",
+    "subject": "Great service",
+    "body": "The new dashboard works beautifully. Excellent job!",
+    "expected_sentiment": "Positive",
+    "expected_emotion": "Happiness",
+    "expected_priority": "Low",
+    "expected_category": "General",
+    "is_prompt_injection": false
+  },
+  {
+    "id": "EMAIL_003",
+    "subject": "Helpful documentation",
+    "body": "The setup guide was clear and saved me time. Thanks!",
+    "expected_sentiment": "Positive",
+    "expected_emotion": "Gratitude",
+    "expected_priority": "Low",
+    "expected_category": "General",
+    "is_prompt_injection": false
+  },
+  {
+    "id": "EMAIL_004",
+    "subject": "Appreciation",
+    "body": "I am happy with the latest improvements.",
+    "expected_sentiment": "Positive",
+    "expected_emotion": "Happiness",
+    "expected_priority": "Low",
+    "expected_category": "General",
+    "is_prompt_injection": false
+  },
+  {
+    "id": "EMAIL_005",
+    "subject": "Issue resolved",
+    "body": "Everything is working now. Thank you for following up.",
+    "expected_sentiment": "Positive",
+    "expected_emotion": "Gratitude",
+    "expected_priority": "Low",
+    "expected_category": "Technical",
+    "is_prompt_injection": false
+  },
+  {
+    "id": "EMAIL_006",
+    "subject": "Fast refund",
+    "body": "I received the refund today. Thanks for handling it promptly.",
+    "expected_sentiment": "Positive",
+    "expected_emotion": "Gratitude",
+    "expected_priority": "Low",
+    "expected_category": "Billing",
+    "is_prompt_injection": false
+  },
+  {
+    "id": "EMAIL_007",
+    "subject": "Feature feedback",
+    "body": "I love the export feature; it is very useful.",
+    "expected_sentiment": "Positive",
+    "expected_emotion": "Happiness",
+    "expected_priority": "Low",
+    "expected_category": "Technical",
+    "is_prompt_injection": false
+  }
+  
+]
